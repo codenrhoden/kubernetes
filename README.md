@@ -34,7 +34,7 @@ Kubernetes builds upon a [decade and a half of experience at Google running prod
 
 ### Kubernetes can run anywhere!
 
-However, initial development was done on GCE and so our instructions and scripts are built around that.  If you make it work on other infrastructure please let us know and contribute instructions/code.
+However, initial development was done on [GCE](https://cloud.google.com/compute/) and so our instructions and scripts are built around that.  If you make it work on other infrastructure please let us know and contribute instructions/code.
 
 ### Kubernetes is ready for Production!
 
